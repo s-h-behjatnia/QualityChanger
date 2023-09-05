@@ -1,0 +1,15 @@
+C:\Project\Test\QualityChanger\bin\Debug\net7.0\QualityChanger.exe
+C:\Project\Test\QualityChanger\bin\Debug\net7.0\QualityChanger.deps.json
+C:\Project\Test\QualityChanger\bin\Debug\net7.0\QualityChanger.runtimeconfig.json
+C:\Project\Test\QualityChanger\bin\Debug\net7.0\QualityChanger.dll
+C:\Project\Test\QualityChanger\bin\Debug\net7.0\QualityChanger.pdb
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.csproj.AssemblyReference.cache
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.AssemblyInfoInputs.cache
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.AssemblyInfo.cs
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.csproj.CoreCompileInputs.cache
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.dll
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\refint\QualityChanger.dll
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.pdb
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\QualityChanger.genruntimeconfig.cache
+C:\Project\Test\QualityChanger\obj\Debug\net7.0\ref\QualityChanger.dll
